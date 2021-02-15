@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+This is my **first markdown course** that gave me examples of how *use* it in GitHub.
